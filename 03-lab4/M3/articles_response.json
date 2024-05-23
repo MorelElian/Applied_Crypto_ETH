@@ -1,0 +1,399 @@
+{
+    "getArticles": {
+        "result": "OK",
+        "articlesCount": 10,
+        "articleList": [
+            {
+                "id": 17659078,
+                "code": "10001.20062",
+                "isAddition": 0,
+                "measureUnitId": 1,
+                "preparationWeight": null,
+                "barcodes": [],
+                "groupAId": 1107,
+                "groupBId": 1872,
+                "groupCId": 0,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "5-Korn Brot",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "5-Korn Brot",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": null
+                }
+            },
+            {
+                "id": 135081,
+                "code": "1000146",
+                "isAddition": 0,
+                "measureUnitId": 1,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2100014??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1118,
+                "groupBId": 1829,
+                "groupCId": 938,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "PAKET INLAND",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "PAKET INLAND",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 8.1,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 135084,
+                "code": "1000189",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2100999??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1100,
+                "groupBId": 1619,
+                "groupCId": 59,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "GEMÜ/SALA/FRÜ WAAGE",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "GEMÜ/SALA/FRÜ WAAGE",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 135086,
+                "code": "1000210",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2200077??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    },
+                    {
+                        "barcode": "2900070??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1581,
+                "groupCId": 54,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "GRANA PADANO PO 260G",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "GRANA PADANO PO 260G",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 137431,
+                "code": "1000211",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2200120??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1581,
+                "groupCId": 448,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "E-TAL MILD PORT 270G",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "E-TAL MILD PORT 270G",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 137432,
+                "code": "1000217",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2100257??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    },
+                    {
+                        "barcode": "2200257??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1556,
+                "groupCId": 448,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "THURG RAHMKÄSE PORT",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "THURG RAHMKÄSE PORT",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 137433,
+                "code": "1000221",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2200426??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    },
+                    {
+                        "barcode": "2900426??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1556,
+                "groupCId": 448,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "RACL NATURE BLÖCKLI",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "RACL NATURE BLÖCKLI",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 137434,
+                "code": "1000226",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2200617??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1556,
+                "groupCId": 448,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "TILSITER ROT PORTION",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "TILSITER ROT PORTION",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 135088,
+                "code": "1000227",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2200647??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1556,
+                "groupCId": 448,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "TILSITER MILD PORT.",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "TILSITER MILD PORT.",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 8.1,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            },
+            {
+                "id": 137435,
+                "code": "1000229",
+                "isAddition": 0,
+                "measureUnitId": 2,
+                "preparationWeight": null,
+                "barcodes": [
+                    {
+                        "barcode": "2200652??????",
+                        "quantity": null,
+                        "price": null,
+                        "description": null
+                    }
+                ],
+                "groupAId": 1095,
+                "groupBId": 1652,
+                "groupCId": 448,
+                "groupDId": 0,
+                "groupEId": 0,
+                "groupFId": 0,
+                "articleOrder": 0,
+                "description": "TÊTE D MOI 1/2L 420G",
+                "notes1": null,
+                "notes2": null,
+                "notes3": null,
+                "wondDescription": "TÊTE D MOI 1/2L 420G",
+                "printoutNotes": null,
+                "productionCenterIdList": [],
+                "additionalLines": [],
+                "validities": [],
+                "dietaryinfo": {},
+                "vats": {
+                    "vatindex1": 2.6,
+                    "vatindex2": 2.6,
+                    "vatindex3": null,
+                    "vatindex4": 0
+                }
+            }
+        ]
+    }
+}
